@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -46,83 +47,6 @@ class VarshaShukla:
     @property
     def skills(self):
         return {
-            ## 🚀 Tech Stack & Skills
-
-### 🧠 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-1ABC9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-F1C40F?style=for-the-badge" />
-</p>
-
----
-
-### 🐍 Programming & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=django,flask" />
-  <img src="https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-34495E?style=for-the-badge" />
-</p>
-
----
-
-### 📊 Data Science & Analysis
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/EDA-F39C12?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Cleaning-27AE60?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statistics-E74C3C?style=for-the-badge" />
-</p>
-
----
-
-### 🧮 Libraries & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
-</p>
-
----
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-  <br/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" />
-</p>
-
----
-
-### 🔄 Automation & Data Handling
-<p>
-  <img src="https://img.shields.io/badge/Web%20Scraping-2980B9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-2ECC71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-E67E22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Pipelines-8E44AD?style=for-the-badge" />
-</p>
-
----
-
-## ⚡ Core Strengths
-```diff
-+ Python Development
-+ Machine Learning & AI
-+ Data Analysis & Visualization
-+ Backend Engineering (Django/Flask)
-+ Problem Solving & Optimization
-
             "ML/DL"      : ["PyTorch", "TensorFlow", "Keras", "Scikit-learn"],
             "NLP/AI"     : ["Hugging Face", "Transformers", "LLMs", "OpenCV"],
             "Data"       : ["Pandas", "NumPy", "SQL", "Power BI", "Tableau"],
